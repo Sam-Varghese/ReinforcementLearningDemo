@@ -2,4 +2,6 @@
 
 This is a demo of reinforcement learning made by [Sam-Varghese](https://github.com/Sam-Varghese).
 
-![Moon lander image](https://mpng.subpng.com/20190304/bu/kisspng-clip-art-lunar-roving-vehicle-lunar-rover-dune-bug-moon-rover-clipart-clip-art-images-2-65-clipa-5c7d23889345e1.1438680815517049686032.jpg)
+![Moon lander image](https://i.pinimg.com/originals/c0/ea/4c/c0ea4c7c49f456d5a90d11aa13683391.gif)
+
+This project is made in [Python](https://python.org). Turtle graphics is used.
