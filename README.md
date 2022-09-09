@@ -15,6 +15,6 @@ This project is made in [Python](https://python.org). Turtle graphics is used. R
 
 This project is licensed under the [MIT License](/LICENSE). Its made by [Sam-Varghese](https://github.com/Sam-Varghese) as a part of the International conference organized by [NMIMS](https://nmims.edu/). My research paper title for this conference is "Reinforcement Learning for Autonomous Systems".
 
-Regards
-Sam Varghese
+Regards<br />
+Sam Varghese<br />
 NMIMS, Indore
