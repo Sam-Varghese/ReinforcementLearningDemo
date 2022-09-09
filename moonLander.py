@@ -61,7 +61,9 @@ def startJourney(landingX, landingY, path_details):
     x_paths = [i[0] for i in path_details]
 
     point1 = [-700, 0]
+    up()
     goto(-700, 0)
+    down()
     speed(1)
     pencolor("gold")
     turtle.shape("triangle")
@@ -100,8 +102,8 @@ def startJourney(landingX, landingY, path_details):
     goto(x_subset[-1]+25, a*(x_subset[-1]**2)+b*x_subset[-1]+c)
 
 def RLearning1():
-
-    discountFactor = 2
+    
+    discountFactor = float(input("Enter the discount factor: "))
     rewards = 0
     rewards_list = []
     landingSites = []
